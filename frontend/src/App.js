@@ -6,14 +6,15 @@
 //     </div>
 //   );
 // }
-
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Header from './components/Header';
 // export default App;
 
 
 const App = () =>{
   return (
     <div className="App">
-      <h1>Images Gallery</h1>
+      <Header title="Gallery of Image From Unsplash"/>
     </div>
   );
 }
