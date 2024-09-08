@@ -20,4 +20,4 @@ yarn-error.log*
 .eslintcache
 
 # IDE
-idea
+.idea/
